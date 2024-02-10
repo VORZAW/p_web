@@ -1,0 +1,13 @@
+{
+  "name": "neocities_web",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build --dist-dir \"build\""
+  },
+  "dependencies": {
+    "parcel": "^2.11.0"
+  }
+}
